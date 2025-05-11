@@ -1,7 +1,7 @@
 <h1 align="center">✨ Welcome to My Universe ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+YourName!;Web+Developer+%7C+Designer+%7C+Musician;&center=true&width=440&height=45&color=F7C52B&vCenter=true&size=24" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Haikal!;Web+Developer+%7C+Designer+%7C+Musician;&center=true&width=440&height=45&color=F7C52B&vCenter=true&size=24" />
 </p>
 
 <p align="center">
